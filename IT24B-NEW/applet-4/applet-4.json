@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John Doe",
+        "age": 22,
+        "Course": "Computer Science",
+        "Address": "123 Main St, Springfield"
+    },
+    {
+        "name": "Jane Smith",
+        "age": 20,
+        "Course": "Engineering",
+        "Address": "456 Elm St, Rivertown"
+    },
+    {
+        "name": "Sam Brown",
+        "age": 21,
+        "Course": "Mathematics",
+        "Address": "789 Oak St, Greenfield"
+    },
+    {
+        "name": "Emily White",
+        "age": 23,
+        "Course": "Biology",
+        "Address": "101 Pine St, Laketown"
+    }
+]
